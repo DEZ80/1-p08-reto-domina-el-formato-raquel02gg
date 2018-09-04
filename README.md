@@ -23,7 +23,7 @@ PC: 4000
 
 ## Actividad 4: (C) 8 Píxeles, de colores distintos
 ```
-21 43 77 22 00 C8 18 FE
+21 BD 6B 22 00 C0 18 FE
 ```
 PC: 4000
 ## Actividad 5: (CC) Patrón libre de color de al menos 80 píxeles
@@ -35,4 +35,5 @@ PC: 4000
 # IMAGENES
 ![Actividad 2](foto1.png)
 ![Actividad 3](foto2.png)
+![Actividad 4](foto3.png)
 
